@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif)](https://rahulkarki.io)
 <h1 align="center">👋 Hi, I’m RahulKarki <h1>
 <h3 align="left">Connect :</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/29620e10255c438b0f0ff96165e1a6daf2fc8486aa3377d05cbcd7545aee06f0/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f323630302f302a4849434c7941644e53497954304f44552e6a7067">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
   <a href="https://www.linkedin.com/in/rahul-karki-125350161/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-karki-125350161/" height="30" width="40" /></a>
 
