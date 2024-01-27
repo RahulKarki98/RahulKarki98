@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM)]
  <h1 align="center">👋 Hi, I’m RahulKarki <h1>
 
   <h3 align="left">Connect :</h3>
