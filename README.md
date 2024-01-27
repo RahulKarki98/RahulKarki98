@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM)]
+[![MasterHead](https://mishpacha.com/wp-content/uploads/2022/07/So-You-Want-to-Be-a%E2%80%A6-Web-Developer-R.jpg)]
  <h1 align="center">👋 Hi, I’m RahulKarki <h1>
 
   <h3 align="left">Connect :</h3>
